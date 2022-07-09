@@ -17,10 +17,10 @@ public class MathxTest {
         assertEquals(20,mt.add(-10,20));
     }
 
-//    @Test
-//    public void subTest(){
-//        assertEquals(-20,mt.sub(-10,10));
-//    }
+    @Test
+    public void subTest(){
+        assertEquals(-20,mt.sub(-10,10));
+    }
 //
 //    @Test
 //    public void multTest(){
